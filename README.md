@@ -1,5 +1,5 @@
 # github_workshop_2020
-The repository for the 2020 Github Workshop!
+The repository for the ACM 2020 Github Workshop!
 
 ## Step 1: Clone this repository locally 
 `$ git clone https://github.com/SCUACM/github_workshop_2020.git`  
