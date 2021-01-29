@@ -1,1 +1,0 @@
-A git pull a day will keep the conflicts away
